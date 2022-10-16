@@ -1,0 +1,15 @@
+/Users/aleksey26cm/Desktop/GeekBrains учеба/ДЗ по C# /HomeWork/works5/bin/Debug/net6.0/works5
+/Users/aleksey26cm/Desktop/GeekBrains учеба/ДЗ по C# /HomeWork/works5/bin/Debug/net6.0/works5.deps.json
+/Users/aleksey26cm/Desktop/GeekBrains учеба/ДЗ по C# /HomeWork/works5/bin/Debug/net6.0/works5.runtimeconfig.json
+/Users/aleksey26cm/Desktop/GeekBrains учеба/ДЗ по C# /HomeWork/works5/bin/Debug/net6.0/works5.dll
+/Users/aleksey26cm/Desktop/GeekBrains учеба/ДЗ по C# /HomeWork/works5/bin/Debug/net6.0/works5.pdb
+/Users/aleksey26cm/Desktop/GeekBrains учеба/ДЗ по C# /HomeWork/works5/obj/Debug/net6.0/works5.csproj.AssemblyReference.cache
+/Users/aleksey26cm/Desktop/GeekBrains учеба/ДЗ по C# /HomeWork/works5/obj/Debug/net6.0/works5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksey26cm/Desktop/GeekBrains учеба/ДЗ по C# /HomeWork/works5/obj/Debug/net6.0/works5.AssemblyInfoInputs.cache
+/Users/aleksey26cm/Desktop/GeekBrains учеба/ДЗ по C# /HomeWork/works5/obj/Debug/net6.0/works5.AssemblyInfo.cs
+/Users/aleksey26cm/Desktop/GeekBrains учеба/ДЗ по C# /HomeWork/works5/obj/Debug/net6.0/works5.csproj.CoreCompileInputs.cache
+/Users/aleksey26cm/Desktop/GeekBrains учеба/ДЗ по C# /HomeWork/works5/obj/Debug/net6.0/works5.dll
+/Users/aleksey26cm/Desktop/GeekBrains учеба/ДЗ по C# /HomeWork/works5/obj/Debug/net6.0/refint/works5.dll
+/Users/aleksey26cm/Desktop/GeekBrains учеба/ДЗ по C# /HomeWork/works5/obj/Debug/net6.0/works5.pdb
+/Users/aleksey26cm/Desktop/GeekBrains учеба/ДЗ по C# /HomeWork/works5/obj/Debug/net6.0/works5.genruntimeconfig.cache
+/Users/aleksey26cm/Desktop/GeekBrains учеба/ДЗ по C# /HomeWork/works5/obj/Debug/net6.0/ref/works5.dll
